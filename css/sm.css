@@ -1,0 +1,15 @@
+.blogs-post-container .post-container{
+    max-width: 95%;
+}
+.proyects-main-container{
+    grid-template-columns: 1fr;
+    grid-template-rows: 2fr;
+}
+.contact-main-container div{
+    display: inline-block;
+    width: 80%;   
+    height: 100%;
+}
+.contact-main-container img{
+    width: 50px;
+}
